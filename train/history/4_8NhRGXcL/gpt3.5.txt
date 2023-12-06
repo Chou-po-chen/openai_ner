@@ -1,0 +1,19 @@
+MODEL
+ft:gpt-3.5-turbo-1106:personal::8NhRGXcL
+Succeeded
+Job ID
+ftjob-DWNg6OK8y9Y7KFJOtsHEKvNp
+Base model
+ft:gpt-3.5-turbo-1106:personal::8NYtED1H
+Created at
+2023年11月22日 下午8:46
+Trained tokens
+1,422,498
+Epochs
+3
+Files
+Training
+train_data_must_choose.jsonl
+Validation
+
+

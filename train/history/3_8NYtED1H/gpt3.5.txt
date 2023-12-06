@@ -1,0 +1,16 @@
+MODEL
+ft:gpt-3.5-turbo-1106:personal::8NYtED1H
+
+Job ID
+ftjob-obf2mZVi3NdeEXbTMCxzii45
+Base model
+gpt-3.5-turbo-1106
+Created at
+2023年11月22日 上午11:02
+
+
+
+661.5
+
+ch = all_file_names[:300] + all_file_names[-300:]
+
